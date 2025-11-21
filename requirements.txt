@@ -1,11 +1,3 @@
-# Create requirements.txt
-with open('requirements.txt', 'w') as f:
-    f.write("""tensorflow==2.20.0
-streamlit==1.26.4
-pillow==12.0.0
-numpy==1.24.0
-""")
-print("requirements.txt created!")
 tensorflow==2.20.0
 streamlit==1.26.4
 pillow==12.0.0
