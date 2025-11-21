@@ -1,6 +1,6 @@
 # Create requirements.txt
 with open('requirements.txt', 'w') as f:
-    f.write("""tensorflow==2.13.0
+    f.write("""tensorflow==2.20.0
 streamlit==1.28.0
 pillow==10.0.0
 numpy==1.24.0
