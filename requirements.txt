@@ -1,4 +1,7 @@
-tensorflow
 streamlit
+tensorflow
+tensorflow-hub
+opencv-python
 pillow
+gtts
 numpy
